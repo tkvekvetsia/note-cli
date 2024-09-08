@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "content": "clean",
+      "tags": [
+        "serious",
+        " work"
+      ],
+      "id": 1725829627257
+    },
+    {
+      "content": "workout",
+      "tags": [
+        "healthy"
+      ],
+      "id": 1725829631707
+    }
+  ]
 }

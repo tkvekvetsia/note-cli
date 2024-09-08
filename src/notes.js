@@ -8,7 +8,7 @@ class Note {
     }
 }
 
-export const newNote = async (note, tags) => {
+export const createNote = async (note, tags) => {
     const newNote = new Note(note, tags);
     await insertDb(newNote);
     return newNote;
